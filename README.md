@@ -20,12 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 ![image](https://github.com/rafopm/qr-code-component/assets/5562967/45b4cac4-839c-4242-8722-a75fee79034a)
+![image](https://github.com/rafopm/qr-code-component/assets/5562967/20639654-82c3-49c0-ac34-7c429716cd09)
 
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://github.com/rafopm/qr-code-component]([https://your-solution-url.com](https://github.com/rafopm/qr-code-component))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://rafopm.github.io/qr-code-component/)]([https://your-live-site-url.com](https://rafopm.github.io/qr-code-component/))
+- Solution URL: (https://github.com/rafopm/qr-code-component))
+- Live Site URL: (https://rafopm.github.io/qr-code-component/))
 
 ## My process
 
@@ -45,10 +46,7 @@ Place the image inside the div and have the image inherit the rounded corners.
           </div>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+
 .barcode {
   width: 290px;
   height: 290px;
