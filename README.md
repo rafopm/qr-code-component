@@ -19,8 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![image](https://github.com/rafopm/qr-code-component/assets/5562967/45b4cac4-839c-4242-8722-a75fee79034a)
-![image](https://github.com/rafopm/qr-code-component/assets/5562967/20639654-82c3-49c0-ac34-7c429716cd09)
+![image](https://github.com/rafopm/qr-code-component/assets/5562967/bb1dd522-3202-45ae-a436-563cb0f53c99)
+![image](https://github.com/rafopm/qr-code-component/assets/5562967/67750ebe-dd28-47f6-9e32-7028e6206c49)
+
 
 
 ### Links
