@@ -1,0 +1,65 @@
+body {
+  font-family: "Outfit", sans-serif;
+  /* background-color: #d5e1ef; */
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.barcodeContainer {
+  width: 320px;
+  height: 500px;
+  background-color: white;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 20px;
+}
+
+.borde {
+  position: relative;
+  width: 290px;
+  height: 470px;
+  margin: auto;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.barcode {
+  width: 290px;
+  height: 290px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.barcode img {
+  max-width: 100%;
+  height: auto;
+}
+
+.texto {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 0 15px 0 15px;
+}
+
+.texto p {
+  margin-top: 0px;
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
+
+.texto h3 {
+  font-size: 22px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
