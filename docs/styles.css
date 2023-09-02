@@ -4,6 +4,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
+
 .container {
   display: flex;
   align-items: center;
@@ -58,8 +59,9 @@ body {
   color: hsl(220, 15%, 55%);
 }
 
-.texto h3 {
-  font-size: 22px;
+.texto h1 {
+  margin: 25px 0 18px 0;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
+  font-size: 22px;
 }
